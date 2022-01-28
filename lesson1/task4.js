@@ -1,5 +1,5 @@
-var a = 0;
-switch a {
+var a = 4;
+switch (a) {
     case 0:
         console.log(0);
         break;
